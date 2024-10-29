@@ -1,0 +1,40 @@
+.baner{
+    background-color: black;
+    height: 100px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.lewy{
+    background-color: aquamarine;
+    height: 1000px;
+    width: 30%;
+    float: left;
+    
+}
+.srodek{
+    background-color: gray;
+    color:white;
+    height: 1000px;
+    width: 40%;
+    float: left;
+    text-align: center;
+    
+}
+.prawy{
+    background-color: aquamarine;
+    height: 1000px;
+    width: 30%;
+    float: left;
+   
+}
+.stopka{
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    clear: both;
+}
+.stopka{
+    color: yellow;
+}
+
